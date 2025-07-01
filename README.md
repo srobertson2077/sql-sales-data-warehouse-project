@@ -5,3 +5,10 @@ The purpose of this project is to demonstrate an understanding of basic data war
 ## <img src="https://github.com/user-attachments/assets/e41a6aec-7cd6-4b8d-b5bc-d9d46b05e709" width=03% height=03%> Data Warehouse Architecture
 ---
 The data warehouse is using the Medallion Architecture Bronze, Silver, and Gold layers: 
+![Data Architecture](docs/Data-Architecture-Medallion.png)
+
+1. **Bronze Layer**: Stores raw data as-is from the source systems. The data is ingested from CSV files into a PostgreSQL database.
+2. **Silver Layer**: At this stage we will transform our data by cleaning, standardizing and normalizing it to match naming convention standards we will set.
+3. **Gold Layer**: In this layer we will have a business ready model that contains our business logic for reporting analysis.
+
+---
