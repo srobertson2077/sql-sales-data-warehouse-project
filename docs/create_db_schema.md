@@ -8,10 +8,7 @@ The following code creates the schema for our project. Save it with a `.sql` ext
 The first part of the code should check if the database exist and then drop the database if necessary and the 2nd part creates and initiates the schema. 
 
 <aside>
-💡
-
-Remember that the first part of the script should be done if you are certain that you will no longer use the database. 
-
+💡 Remember that the first part of the script should be done if you are certain that you will no longer use the database. 
 </aside>
 
 ### First Part: Check and drop database
