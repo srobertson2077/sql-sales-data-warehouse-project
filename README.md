@@ -71,6 +71,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making. 
 
 ---
+## Projet Task Order
+1. [Create DB and Schemas](docs/create_db_schema.md)
+2. [Build Bronze Layer](docs/build_bronze_layer.md)
+3. [Build Silver Layer](docs/build_silver_layer.md)
+4. [Build Gold Layer](docs/build_gold_layer.md)
+
+---
 
 ## 🛡️ License
 
