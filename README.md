@@ -4,3 +4,4 @@ The purpose of this project is to demonstrate an understanding of basic data war
 ***
 ## <img src="https://github.com/user-attachments/assets/e41a6aec-7cd6-4b8d-b5bc-d9d46b05e709" width=03% height=03%> Data Warehouse Architecture
 ---
+The data warehouse is using the Medallion Architecture Bronze, Silver, and Gold layers: 
