@@ -148,4 +148,4 @@ GO
 1. Go to the View dropdown and select `Reload` . 
     - The schemas should appear as seen below:
     
-    ![postgresql_schemas_bronze_silver_gold](docs/postgresql_schemas_bronze_silver_gold.png)
+    ![postgresql_schemas_bronze_silver_gold](postgresql_schemas_bronze_silver_gold.png)
